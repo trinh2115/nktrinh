@@ -1,0 +1,315 @@
+Date,Product_ID,Product_Name,Categories,Units_Sold,Stock_Level,Reorder_Level,Unit_Price,Total_Sales,Supplier,Lead_Time_Days,Forecasted_Demand,Stock_Status,Category_Demand_Score
+1/1/2024,SP001,Smartphone X1,Smartphones,50,200.0,100.0,699.99,34999.5,TechTrend,7,55,Normal,0.85
+1/1/2024,SP002,Wireless Earbuds E2,Audio Devices,30,150.0,50.0,129.99,3899.7,SoundWave,5,35,Normal,0.75
+1/1/2024,SP003,Smart TV T3,Televisions,10,80.0,30.0,799.99,7999.9,VisionTech,10,12,Normal,0.65
+1/1/2024,SP004,Laptop L4,Laptops,15,100.0,40.0,1099.99,16499.85,CompTech,8,18,Normal,0.8
+1/1/2024,SP005,Smartwatch W5,Wearables,25,120.0,60.0,199.99,4999.75,GearFit,6,28,Normal,0.7
+1/1/2024,SP006,Bluetooth Speaker S6,Audio Devices,20,90.0,40.0,89.99,1799.8,SoundWave,5,22,Normal,0.75
+1/1/2024,SP007,Tablet T7,Tablets,12,70.0,30.0,349.99,4199.88,TechTrend,7,15,Normal,0.68
+1/1/2024,SP008,Gaming Console G8,Gaming Devices,8,50.0,20.0,499.99,3999.92,GameZone,10,10,Normal,0.6
+1/1/2024,SP009,Wireless Charger C9,Accessories,40,200.0,80.0,29.99,1199.6,TechTrend,4,45,Normal,0.55
+1/1/2024,SP010,Smart Home Hub H10,Smart Home Devices,5,60.0,25.0,149.99,749.95,SmartTech,6,8,Normal,0.5
+1/2/2024,SP001,Smartphone X1,Smartphones,55,145.0,100.0,699.99,38499.45,TechTrend,7,60,Normal,0.85
+1/2/2024,SP002,Wireless Earbuds E2,Audio Devices,35,115.0,50.0,129.99,4549.65,SoundWave,5,40,Normal,0.75
+1/2/2024,SP003,Smart TV T3,Televisions,12,68.0,30.0,799.99,9599.88,VisionTech,10,14,Normal,0.65
+1/2/2024,SP004,Laptop L4,Laptops,18,82.0,40.0,1099.99,19799.82,CompTech,8,20,Normal,0.8
+1/2/2024,SP005,Smartwatch W5,Wearables,28,92.0,60.0,199.99,5599.72,GearFit,6,30,Normal,0.7
+1/2/2024,SP006,Bluetooth Speaker S6,Audio Devices,22,68.0,40.0,89.99,1979.78,SoundWave,5,25,Normal,0.75
+1/2/2024,SP007,Tablet T7,Tablets,15,55.0,30.0,349.99,5249.85,TechTrend,7,18,Normal,0.68
+1/2/2024,SP008,Gaming Console G8,Gaming Devices,10,40.0,20.0,499.99,4999.9,GameZone,10,12,Normal,0.6
+1/2/2024,SP009,Wireless Charger C9,Accessories,45,155.0,80.0,29.99,1349.55,TechTrend,4,50,Normal,0.55
+1/2/2024,SP010,Smart Home Hub H10,Smart Home Devices,7,53.0,25.0,149.99,1049.93,SmartTech,6,10,Normal,0.5
+1/3/2024,SP001,Smartphone X1,Smartphones,60,85.0,100.0,699.99,41999.4,TechTrend,7,65,Low,0.85
+1/3/2024,SP002,Wireless Earbuds E2,Audio Devices,40,75.0,50.0,129.99,5199.6,SoundWave,5,45,Normal,0.75
+1/3/2024,SP003,Smart TV T3,Televisions,15,53.0,30.0,799.99,11999.85,VisionTech,10,17,Normal,0.65
+1/3/2024,SP004,Laptop L4,Laptops,20,62.0,40.0,1099.99,21999.8,CompTech,8,22,Normal,0.8
+1/3/2024,SP005,Smartwatch W5,Wearables,30,62.0,60.0,199.99,5999.7,GearFit,6,32,Normal,0.7
+1/3/2024,SP006,Bluetooth Speaker S6,Audio Devices,25,43.0,40.0,89.99,2249.75,SoundWave,5,28,Normal,0.75
+1/3/2024,SP007,Tablet T7,Tablets,18,37.0,30.0,349.99,6299.82,TechTrend,7,20,Normal,0.68
+1/3/2024,SP008,Gaming Console G8,Gaming Devices,12,28.0,20.0,499.99,5999.88,GameZone,10,14,Normal,0.6
+1/3/2024,SP009,Wireless Charger C9,Accessories,50,105.0,80.0,29.99,1499.5,TechTrend,4,55,Normal,0.55
+1/3/2024,SP010,Smart Home Hub H10,Smart Home Devices,8,45.0,25.0,149.99,1199.92,SmartTech,6,12,Normal,0.5
+1/4/2024,SP001,Smartphone X1,Smartphones,65,20.0,100.0,699.99,45499.35,TechTrend,7,70,Low,0.85
+1/4/2024,SP002,Wireless Earbuds E2,Audio Devices,45,30.0,50.0,129.99,5849.55,SoundWave,5,50,Low,0.75
+1/4/2024,SP003,Smart TV T3,Televisions,18,35.0,30.0,799.99,14399.82,VisionTech,10,20,Normal,0.65
+1/4/2024,SP004,Laptop L4,Laptops,22,40.0,40.0,1099.99,24199.78,CompTech,8,25,Normal,0.8
+1/4/2024,SP005,Smartwatch W5,Wearables,35,27.0,60.0,199.99,6999.65,GearFit,6,38,Low,0.7
+1/4/2024,SP006,Bluetooth Speaker S6,Audio Devices,28,15.0,40.0,89.99,2519.72,SoundWave,5,30,Low,0.75
+1/4/2024,SP007,Tablet T7,Tablets,20,17.0,30.0,349.99,6999.8,TechTrend,7,22,Low,0.68
+1/4/2024,SP008,Gaming Console G8,Gaming Devices,15,13.0,20.0,499.99,7499.85,GameZone,10,17,Low,0.6
+1/4/2024,SP009,Wireless Charger C9,Accessories,55,50.0,80.0,29.99,1649.45,TechTrend,4,60,Normal,0.55
+1/4/2024,SP010,Smart Home Hub H10,Smart Home Devices,10,35.0,25.0,149.99,1499.9,SmartTech,6,15,Normal,0.5
+1/5/2024,SP001,Smartphone X1,Smartphones,70,150.0,100.0,699.99,48999.3,TechTrend,7,75,Normal,0.85
+1/5/2024,SP002,Wireless Earbuds E2,Audio Devices,50,100.0,50.0,129.99,6499.5,SoundWave,5,55,Normal,0.75
+1/5/2024,SP003,Smart TV T3,Televisions,20,65.0,30.0,799.99,15999.8,VisionTech,10,22,Normal,0.65
+1/5/2024,SP004,Laptop L4,Laptops,25,75.0,40.0,1099.99,27499.75,CompTech,8,28,Normal,0.8
+1/5/2024,SP005,Smartwatch W5,Wearables,40,87.0,60.0,199.99,7999.6,GearFit,6,42,Normal,0.7
+1/5/2024,SP006,Bluetooth Speaker S6,Audio Devices,30,85.0,40.0,89.99,2699.7,SoundWave,5,32,Normal,0.75
+1/5/2024,SP007,Tablet T7,Tablets,22,45.0,30.0,349.99,7699.78,TechTrend,7,25,Normal,0.68
+1/5/2024,SP008,Gaming Console G8,Gaming Devices,18,45.0,20.0,499.99,8999.82,GameZone,10,20,Normal,0.6
+1/5/2024,SP009,Wireless Charger C9,Accessories,60,140.0,80.0,29.99,1799.4,TechTrend,4,65,Normal,0.55
+1/5/2024,SP010,Smart Home Hub H10,Smart Home Devices,12,53.0,25.0,149.99,1799.88,SmartTech,6,15,Normal,0.5
+1/6/2024,SP001,Smartphone X1,Smartphones,75,75.0,100.0,699.99,52499.25,TechTrend,7,80,Low,0.85
+1/6/2024,SP002,Wireless Earbuds E2,Audio Devices,55,45.0,50.0,129.99,7149.45,SoundWave,5,60,Low,0.75
+1/6/2024,SP003,Smart TV T3,Televisions,22,43.0,30.0,799.99,17599.78,VisionTech,10,25,Normal,0.65
+1/6/2024,SP004,Laptop L4,Laptops,28,47.0,40.0,1099.99,30799.72,CompTech,8,30,Normal,0.8
+1/6/2024,SP005,Smartwatch W5,Wearables,45,42.0,60.0,199.99,8999.55,GearFit,6,48,Low,0.7
+1/6/2024,SP006,Bluetooth Speaker S6,Audio Devices,35,50.0,40.0,89.99,3149.65,SoundWave,5,38,Normal,0.75
+1/6/2024,SP007,Tablet T7,Tablets,25,20.0,30.0,349.99,8749.75,TechTrend,7,28,Low,0.68
+1/6/2024,SP008,Gaming Console G8,Gaming Devices,20,25.0,20.0,499.99,9999.8,GameZone,10,22,Normal,0.6
+1/6/2024,SP009,Wireless Charger C9,Accessories,65,75.0,80.0,29.99,1949.35,TechTrend,4,70,Normal,0.55
+1/6/2024,SP010,Smart Home Hub H10,Smart Home Devices,15,38.0,25.0,149.99,2249.85,SmartTech,6,18,Normal,0.5
+1/7/2024,SP001,Smartphone X1,Smartphones,80,195.0,100.0,699.99,55999.2,TechTrend,7,85,Normal,0.85
+1/7/2024,SP002,Wireless Earbuds E2,Audio Devices,60,135.0,50.0,129.99,7799.4,SoundWave,5,65,Normal,0.75
+1/7/2024,SP003,Smart TV T3,Televisions,25,68.0,30.0,799.99,19999.75,VisionTech,10,28,Normal,0.65
+1/7/2024,SP004,Laptop L4,Laptops,30,67.0,40.0,1099.99,32999.7,CompTech,8,32,Normal,0.8
+1/7/2024,SP005,Smartwatch W5,Wearables,50,92.0,60.0,199.99,9999.5,GearFit,6,52,Normal,0.7
+1/7/2024,SP006,Bluetooth Speaker S6,Audio Devices,40,110.0,40.0,89.99,3599.6,SoundWave,5,42,Normal,0.75
+1/7/2024,SP007,Tablet T7,Tablets,28,42.0,30.0,349.99,9799.72,TechTrend,7,30,Normal,0.68
+1/7/2024,SP008,Gaming Console G8,Gaming Devices,22,43.0,20.0,499.99,10999.78,GameZone,10,25,Normal,0.6
+1/7/2024,SP009,Wireless Charger C9,Accessories,70,165.0,80.0,29.99,2099.3,TechTrend,4,75,Normal,0.55
+1/7/2024,SP010,Smart Home Hub H10,Smart Home Devices,18,55.0,25.0,149.99,2699.82,SmartTech,6,20,Normal,0.5
+1/8/2024,SP001,Smartphone X1,Smartphones,85,110.0,100.0,699.99,59499.15,TechTrend,7,90,Normal,0.85
+1/8/2024,SP002,Wireless Earbuds E2,Audio Devices,65,70.0,50.0,129.99,8449.35,SoundWave,5,70,Normal,0.75
+1/8/2024,SP003,Smart TV T3,Televisions,28,40.0,30.0,799.99,22399.72,VisionTech,10,30,Normal,0.65
+1/8/2024,SP004,Laptop L4,Laptops,35,32.0,40.0,1099.99,38499.65,CompTech,8,38,Low,0.8
+1/8/2024,SP005,Smartwatch W5,Wearables,55,37.0,60.0,199.99,10999.45,GearFit,6,58,Low,0.7
+1/8/2024,SP006,Bluetooth Speaker S6,Audio Devices,45,65.0,40.0,89.99,4049.55,SoundWave,5,48,Normal,0.75
+1/8/2024,SP007,Tablet T7,Tablets,30,12.0,30.0,349.99,10499.7,TechTrend,7,32,Low,0.68
+1/8/2024,SP008,Gaming Console G8,Gaming Devices,25,18.0,20.0,499.99,12499.75,GameZone,10,28,Low,0.6
+1/8/2024,SP009,Wireless Charger C9,Accessories,75,90.0,80.0,29.99,2249.25,TechTrend,4,80,Normal,0.55
+1/8/2024,SP010,Smart Home Hub H10,Smart Home Devices,20,35.0,25.0,149.99,2999.8,SmartTech,6,22,Normal,0.5
+1/9/2024,SP001,Smartphone X1,Smartphones,90,20.0,100.0,699.99,62999.1,TechTrend,7,95,Low,0.85
+1/9/2024,SP002,Wireless Earbuds E2,Audio Devices,70,150.0,50.0,129.99,9099.3,SoundWave,5,75,Normal,0.75
+1/9/2024,SP003,Smart TV T3,Televisions,30,60.0,30.0,799.99,23999.7,VisionTech,10,32,Normal,0.65
+1/9/2024,SP004,Laptop L4,Laptops,40,92.0,40.0,1099.99,43999.6,CompTech,8,42,Normal,0.8
+1/9/2024,SP005,Smartwatch W5,Wearables,60,97.0,60.0,199.99,11999.4,GearFit,6,62,Normal,0.7
+1/9/2024,SP006,Bluetooth Speaker S6,Audio Devices,50,115.0,40.0,89.99,4499.5,SoundWave,5,52,Normal,0.75
+1/9/2024,SP007,Tablet T7,Tablets,35,77.0,30.0,349.99,12249.65,TechTrend,7,38,Normal,0.68
+1/9/2024,SP008,Gaming Console G8,Gaming Devices,28,40.0,20.0,499.99,13999.72,GameZone,10,30,Normal,0.6
+1/9/2024,SP009,Wireless Charger C9,Accessories,80,170.0,80.0,29.99,2399.2,TechTrend,4,85,Normal,0.55
+1/9/2024,SP010,Smart Home Hub H10,Smart Home Devices,22,53.0,25.0,149.99,3299.78,SmartTech,6,25,Normal,0.5
+1/10/2024,SP001,Smartphone X1,Smartphones,95,125.0,100.0,699.99,66499.05,TechTrend,7,100,Normal,0.85
+1/10/2024,SP002,Wireless Earbuds E2,Audio Devices,75,75.0,50.0,129.99,9749.25,SoundWave,5,80,Normal,0.75
+1/10/2024,SP003,Smart TV T3,Televisions,35,25.0,30.0,799.99,27999.65,VisionTech,10,38,Low,0.65
+1/10/2024,SP004,Laptop L4,Laptops,45,47.0,40.0,1099.99,49499.55,CompTech,8,48,Normal,0.8
+1/10/2024,SP005,Smartwatch W5,Wearables,65,32.0,60.0,199.99,12999.35,GearFit,6,68,Low,0.7
+1/10/2024,SP006,Bluetooth Speaker S6,Audio Devices,55,60.0,40.0,89.99,4949.45,SoundWave,5,58,Normal,0.75
+1/10/2024,SP007,Tablet T7,Tablets,40,37.0,30.0,349.99,13999.6,TechTrend,7,42,Normal,0.68
+1/10/2024,SP008,Gaming Console G8,Gaming Devices,30,10.0,20.0,499.99,14999.7,GameZone,10,32,Low,0.6
+1/10/2024,SP009,Wireless Charger C9,Accessories,85,85.0,80.0,29.99,2549.15,TechTrend,4,90,Normal,0.55
+1/10/2024,SP010,Smart Home Hub H10,Smart Home Devices,25,28.0,25.0,149.99,3749.75,SmartTech,6,28,Normal,0.5
+1/11/2024,SP001,Smartphone X1,Smartphones,100,25.0,100.0,699.99,69999.0,TechTrend,7,105,Low,0.85
+1/11/2024,SP002,Wireless Earbuds E2,Audio Devices,80,145.0,50.0,129.99,10399.2,SoundWave,5,85,Normal,0.75
+1/11/2024,SP003,Smart TV T3,Televisions,40,85.0,30.0,799.99,31999.6,VisionTech,10,42,Normal,0.65
+1/11/2024,SP004,Laptop L4,Laptops,50,97.0,40.0,1099.99,54999.5,CompTech,8,52,Normal,0.8
+1/11/2024,SP005,Smartwatch W5,Wearables,70,87.0,60.0,199.99,13999.3,GearFit,6,72,Normal,0.7
+1/11/2024,SP006,Bluetooth Speaker S6,Audio Devices,60,100.0,40.0,89.99,5399.4,SoundWave,5,62,Normal,0.75
+1/11/2024,SP007,Tablet T7,Tablets,45,82.0,30.0,349.99,15749.55,TechTrend,7,48,Normal,0.68
+1/11/2024,SP008,Gaming Console G8,Gaming Devices,35,75.0,20.0,499.99,17499.65,GameZone,10,38,Normal,0.6
+1/11/2024,SP009,Wireless Charger C9,Accessories,90,175.0,80.0,29.99,2699.1,TechTrend,4,95,Normal,0.55
+1/11/2024,SP010,Smart Home Hub H10,Smart Home Devices,28,53.0,25.0,149.99,4199.72,SmartTech,6,30,Normal,0.5
+1/12/2024,SP001,Smartphone X1,Smartphones,105,120.0,100.0,699.99,73499.95,TechTrend,7,110,Normal,0.85
+1/12/2024,SP002,Wireless Earbuds E2,Audio Devices,85,60.0,50.0,129.99,11049.15,SoundWave,5,90,Normal,0.75
+1/12/2024,SP003,Smart TV T3,Televisions,45,40.0,30.0,799.99,35999.55,VisionTech,10,48,Normal,0.65
+1/12/2024,SP004,Laptop L4,Laptops,55,42.0,40.0,1099.99,60499.45,CompTech,8,58,Normal,0.8
+1/12/2024,SP005,Smartwatch W5,Wearables,75,12.0,60.0,199.99,14999.25,GearFit,6,78,Low,0.7
+1/12/2024,SP006,Bluetooth Speaker S6,Audio Devices,65,35.0,40.0,89.99,5849.35,SoundWave,5,68,Low,0.75
+1/12/2024,SP007,Tablet T7,Tablets,50,32.0,30.0,349.99,17499.5,TechTrend,7,52,Normal,0.68
+1/12/2024,SP008,Gaming Console G8,Gaming Devices,40,35.0,20.0,499.99,19999.6,GameZone,10,42,Normal,0.6
+1/12/2024,SP009,Wireless Charger C9,Accessories,95,80.0,80.0,29.99,2849.05,TechTrend,4,100,Normal,0.55
+1/12/2024,SP010,Smart Home Hub H10,Smart Home Devices,30,23.0,25.0,149.99,4499.7,SmartTech,6,32,Low,0.5
+1/13/2024,SP001,Smartphone X1,Smartphones,110,10.0,100.0,699.99,76999.9,TechTrend,7,115,Low,0.85
+1/13/2024,SP002,Wireless Earbuds E2,Audio Devices,90,150.0,50.0,129.99,11699.1,SoundWave,5,95,Normal,0.75
+1/13/2024,SP003,Smart TV T3,Televisions,50,90.0,30.0,799.99,39999.5,VisionTech,10,52,Normal,0.65
+1/13/2024,SP004,Laptop L4,Laptops,60,82.0,40.0,1099.99,65999.4,CompTech,8,62,Normal,0.8
+1/13/2024,SP005,Smartwatch W5,Wearables,80,92.0,60.0,199.99,15999.2,GearFit,6,82,Normal,0.7
+1/13/2024,SP006,Bluetooth Speaker S6,Audio Devices,70,105.0,40.0,89.99,6299.3,SoundWave,5,72,Normal,0.75
+1/13/2024,SP007,Tablet T7,Tablets,55,77.0,30.0,349.99,19249.45,TechTrend,7,58,Normal,0.68
+1/13/2024,SP008,Gaming Console G8,Gaming Devices,45,90.0,20.0,499.99,22499.55,GameZone,10,48,Normal,0.6
+1/13/2024,SP009,Wireless Charger C9,Accessories,100,180.0,80.0,29.99,2999.0,TechTrend,4,105,Normal,0.55
+1/13/2024,SP010,Smart Home Hub H10,Smart Home Devices,35,58.0,25.0,149.99,5249.65,SmartTech,6,38,Normal,0.5
+1/14/2024,SP001,Smartphone X1,Smartphones,115,95.0,100.0,699.99,80499.85,TechTrend,7,120,Low,0.85
+1/14/2024,SP002,Wireless Earbuds E2,Audio Devices,95,55.0,50.0,129.99,12349.05,SoundWave,5,100,Normal,0.75
+1/14/2024,SP003,Smart TV T3,Televisions,55,35.0,30.0,799.99,43999.45,VisionTech,10,58,Normal,0.65
+1/14/2024,SP004,Laptop L4,Laptops,65,17.0,40.0,1099.99,71499.35,CompTech,8,68,Low,0.8
+1/14/2024,SP005,Smartwatch W5,Wearables,85,7.0,60.0,199.99,16999.15,GearFit,6,88,Low,0.7
+1/14/2024,SP006,Bluetooth Speaker S6,Audio Devices,75,30.0,40.0,89.99,6749.25,SoundWave,5,78,Low,0.75
+1/14/2024,SP007,Tablet T7,Tablets,60,17.0,30.0,349.99,20999.4,TechTrend,7,62,Low,0.68
+1/14/2024,SP008,Gaming Console G8,Gaming Devices,50,40.0,20.0,499.99,24999.5,GameZone,10,52,Normal,0.6
+1/14/2024,SP009,Wireless Charger C9,Accessories,105,75.0,80.0,29.99,3148.95,TechTrend,4,110,Normal,0.55
+1/14/2024,SP010,Smart Home Hub H10,Smart Home Devices,40,18.0,25.0,149.99,5999.6,SmartTech,6,42,Low,0.5
+1/15/2024,SP001,Smartphone X1,Smartphones,120,175.0,100.0,699.99,83999.8,TechTrend,7,125,Normal,0.85
+1/15/2024,SP002,Wireless Earbuds E2,Audio Devices,100,155.0,50.0,129.99,12999.0,SoundWave,5,105,Normal,0.75
+1/15/2024,SP003,Smart TV T3,Televisions,60,75.0,30.0,799.99,47999.4,VisionTech,10,62,Normal,0.65
+1/15/2024,SP004,Laptop L4,Laptops,70,77.0,40.0,1099.99,76999.3,CompTech,8,72,Normal,0.8
+1/15/2024,SP005,Smartwatch W5,Wearables,90,67.0,60.0,199.99,17999.1,GearFit,6,92,Normal,0.7
+1/15/2024,SP006,Bluetooth Speaker S6,Audio Devices,80,90.0,40.0,89.99,7199.2,SoundWave,5,82,Normal,0.75
+1/15/2024,SP007,Tablet T7,Tablets,65,52.0,30.0,349.99,22749.35,TechTrend,7,68,Normal,0.68
+1/15/2024,SP008,Gaming Console G8,Gaming Devices,55,85.0,20.0,499.99,27499.45,GameZone,10,58,Normal,0.6
+1/15/2024,SP009,Wireless Charger C9,Accessories,110,165.0,80.0,29.99,3298.9,TechTrend,4,115,Normal,0.55
+1/15/2024,SP010,Smart Home Hub H10,Smart Home Devices,45,63.0,25.0,149.99,6749.55,SmartTech,6,48,Normal,0.5
+1/16/2024,SP001,Smartphone X1,Smartphones,125,50.0,100.0,699.99,87499.75,TechTrend,7,130,Low,0.85
+1/16/2024,SP002,Wireless Earbuds E2,Audio Devices,105,50.0,50.0,129.99,13648.95,SoundWave,5,110,Normal,0.75
+1/16/2024,SP003,Smart TV T3,Televisions,65,10.0,30.0,799.99,51999.35,VisionTech,10,68,Low,0.65
+1/16/2024,SP004,Laptop L4,Laptops,75,12.0,40.0,1099.99,82499.25,CompTech,8,78,Low,0.8
+1/16/2024,SP005,Smartwatch W5,Wearables,95,12.0,60.0,199.99,18999.05,GearFit,6,98,Low,0.7
+1/16/2024,SP006,Bluetooth Speaker S6,Audio Devices,85,15.0,40.0,89.99,7649.15,SoundWave,5,88,Low,0.75
+1/16/2024,SP007,Tablet T7,Tablets,70,12.0,30.0,349.99,24499.3,TechTrend,7,72,Low,0.68
+1/16/2024,SP008,Gaming Console G8,Gaming Devices,60,25.0,20.0,499.99,29999.4,GameZone,10,62,Normal,0.6
+1/16/2024,SP009,Wireless Charger C9,Accessories,115,50.0,80.0,29.99,3448.85,TechTrend,4,120,Normal,0.55
+1/16/2024,SP010,Smart Home Hub H10,Smart Home Devices,50,13.0,25.0,149.99,7499.5,SmartTech,6,52,Low,0.5
+1/17/2024,SP001,Smartphone X1,Smartphones,130,170.0,100.0,699.99,90999.7,TechTrend,7,135,Normal,0.85
+1/17/2024,SP002,Wireless Earbuds E2,Audio Devices,110,140.0,50.0,129.99,14298.9,SoundWave,5,115,Normal,0.75
+1/17/2024,SP003,Smart TV T3,Televisions,70,65.0,30.0,799.99,55999.3,VisionTech,10,72,Normal,0.65
+1/17/2024,SP004,Laptop L4,Laptops,80,67.0,40.0,1099.99,87999.2,CompTech,8,82,Normal,0.8
+1/17/2024,SP005,Smartwatch W5,Wearables,100,62.0,60.0,199.99,19999.0,GearFit,6,102,Normal,0.7
+1/17/2024,SP006,Bluetooth Speaker S6,Audio Devices,90,75.0,40.0,89.99,8099.1,SoundWave,5,92,Normal,0.75
+1/17/2024,SP007,Tablet T7,Tablets,75,37.0,30.0,349.99,26249.25,TechTrend,7,78,Normal,0.68
+1/17/2024,SP008,Gaming Console G8,Gaming Devices,65,80.0,20.0,499.99,32499.35,GameZone,10,68,Normal,0.6
+1/17/2024,SP009,Wireless Charger C9,Accessories,120,145.0,80.0,29.99,3598.8,TechTrend,4,125,Normal,0.55
+1/17/2024,SP010,Smart Home Hub H10,Smart Home Devices,55,58.0,25.0,149.99,8249.45,SmartTech,6,58,Normal,0.5
+1/18/2024,SP001,Smartphone X1,Smartphones,135,35.0,100.0,699.99,94499.65,TechTrend,7,140,Low,0.85
+1/18/2024,SP002,Wireless Earbuds E2,Audio Devices,115,25.0,50.0,129.99,14948.85,SoundWave,5,120,Low,0.75
+1/18/2024,SP003,Smart TV T3,Televisions,75,20.0,30.0,799.99,59999.25,VisionTech,10,78,Low,0.65
+1/18/2024,SP004,Laptop L4,Laptops,85,12.0,40.0,1099.99,93499.15,CompTech,8,88,Low,0.8
+1/18/2024,SP005,Smartwatch W5,Wearables,105,17.0,60.0,199.99,20998.95,GearFit,6,108,Low,0.7
+1/18/2024,SP006,Bluetooth Speaker S6,Audio Devices,95,20.0,40.0,89.99,8549.05,SoundWave,5,98,Low,0.75
+1/18/2024,SP007,Tablet T7,Tablets,80,12.0,30.0,349.99,27999.2,TechTrend,7,82,Low,0.68
+1/18/2024,SP008,Gaming Console G8,Gaming Devices,70,15.0,20.0,499.99,34999.3,GameZone,10,72,Low,0.6
+1/18/2024,SP009,Wireless Charger C9,Accessories,125,20.0,80.0,29.99,3748.75,TechTrend,4,130,Low,0.55
+1/18/2024,SP010,Smart Home Hub H10,Smart Home Devices,60,23.0,25.0,149.99,8999.4,SmartTech,6,62,Low,0.5
+1/19/2024,SP001,Smartphone X1,Smartphones,140,155.0,100.0,699.99,97998.6,TechTrend,7,145,Normal,0.85
+1/19/2024,SP002,Wireless Earbuds E2,Audio Devices,120,135.0,50.0,129.99,15598.8,SoundWave,5,125,Normal,0.75
+1/19/2024,SP003,Smart TV T3,Televisions,80,75.0,30.0,799.99,63999.2,VisionTech,10,82,Normal,0.65
+1/19/2024,SP004,Laptop L4,Laptops,90,67.0,40.0,1099.99,98999.1,CompTech,8,92,Normal,0.8
+1/19/2024,SP005,Smartwatch W5,Wearables,110,72.0,60.0,199.99,21998.9,GearFit,6,112,Normal,0.7
+1/19/2024,SP006,Bluetooth Speaker S6,Audio Devices,100,85.0,40.0,89.99,8999.0,SoundWave,5,102,Normal,0.75
+1/19/2024,SP007,Tablet T7,Tablets,85,47.0,30.0,349.99,29749.15,TechTrend,7,88,Normal,0.68
+1/19/2024,SP008,Gaming Console G8,Gaming Devices,75,70.0,20.0,499.99,37499.25,GameZone,10,78,Normal,0.6
+1/19/2024,SP009,Wireless Charger C9,Accessories,130,155.0,80.0,29.99,3898.7,TechTrend,4,135,Normal,0.55
+1/19/2024,SP010,Smart Home Hub H10,Smart Home Devices,65,68.0,25.0,149.99,9749.35,SmartTech,6,68,Normal,0.5
+1/20/2024,SP001,Smartphone X1,Smartphones,145,10.0,100.0,699.99,101499.55,TechTrend,7,150,Low,0.85
+1/20/2024,SP002,Wireless Earbuds E2,Audio Devices,125,10.0,50.0,129.99,16248.75,SoundWave,5,130,Low,0.75
+1/20/2024,SP003,Smart TV T3,Televisions,85,30.0,30.0,799.99,67999.15,VisionTech,10,88,Normal,0.65
+1/20/2024,SP004,Laptop L4,Laptops,95,22.0,40.0,1099.99,104499.05,CompTech,8,98,Low,0.8
+1/20/2024,SP005,Smartwatch W5,Wearables,115,27.0,60.0,199.99,22998.85,GearFit,6,118,Low,0.7
+1/20/2024,SP006,Bluetooth Speaker S6,Audio Devices,105,40.0,40.0,89.99,9448.95,SoundWave,5,108,Normal,0.75
+1/20/2024,SP007,Tablet T7,Tablets,90,17.0,30.0,349.99,31499.1,TechTrend,7,92,Low,0.68
+1/20/2024,SP008,Gaming Console G8,Gaming Devices,80,25.0,20.0,499.99,39999.2,GameZone,10,82,Normal,0.6
+1/20/2024,SP009,Wireless Charger C9,Accessories,135,20.0,80.0,29.99,4048.65,TechTrend,4,140,Low,0.55
+1/20/2024,SP010,Smart Home Hub H10,Smart Home Devices,70,23.0,25.0,149.99,10499.3,SmartTech,6,72,Low,0.5
+1/21/2024,SP001,Smartphone X1,Smartphones,150,160.0,100.0,699.99,104999.5,TechTrend,7,155,Normal,0.85
+1/21/2024,SP002,Wireless Earbuds E2,Audio Devices,130,140.0,50.0,129.99,16898.7,SoundWave,5,135,Normal,0.75
+1/21/2024,SP003,Smart TV T3,Televisions,90,85.0,30.0,799.99,71999.1,VisionTech,10,92,Normal,0.65
+1/21/2024,SP004,Laptop L4,Laptops,100,77.0,40.0,1099.99,109999.0,CompTech,8,102,Normal,0.8
+1/21/2024,SP005,Smartwatch W5,Wearables,120,82.0,60.0,199.99,23998.8,GearFit,6,122,Normal,0.7
+1/21/2024,SP006,Bluetooth Speaker S6,Audio Devices,110,95.0,40.0,89.99,9898.9,SoundWave,5,112,Normal,0.75
+1/21/2024,SP007,Tablet T7,Tablets,95,62.0,30.0,349.99,33249.05,TechTrend,7,98,Normal,0.68
+1/21/2024,SP008,Gaming Console G8,Gaming Devices,85,80.0,20.0,499.99,42499.15,GameZone,10,88,Normal,0.6
+1/21/2024,SP009,Wireless Charger C9,Accessories,140,165.0,80.0,29.99,4198.6,TechTrend,4,145,Normal,0.55
+1/21/2024,SP010,Smart Home Hub H10,Smart Home Devices,75,68.0,25.0,149.99,11249.25,SmartTech,6,78,Normal,0.5
+1/22/2024,SP001,Smartphone X1,Smartphones,155,5.0,100.0,699.99,108499.45,TechTrend,7,160,Low,0.85
+1/22/2024,SP002,Wireless Earbuds E2,Audio Devices,135,5.0,50.0,129.99,17548.65,SoundWave,5,140,Low,0.75
+1/22/2024,SP003,Smart TV T3,Televisions,95,40.0,30.0,799.99,75999.05,VisionTech,10,98,Normal,0.65
+1/22/2024,SP004,Laptop L4,Laptops,105,32.0,40.0,1099.99,115499.95,CompTech,8,108,Low,0.8
+1/22/2024,SP005,Smartwatch W5,Wearables,125,37.0,60.0,199.99,24998.75,GearFit,6,128,Low,0.7
+1/22/2024,SP006,Bluetooth Speaker S6,Audio Devices,115,50.0,40.0,89.99,10348.85,SoundWave,5,118,Normal,0.75
+1/22/2024,SP007,Tablet T7,Tablets,100,17.0,30.0,349.99,34999.0,TechTrend,7,102,Low,0.68
+1/22/2024,SP008,Gaming Console G8,Gaming Devices,90,35.0,20.0,499.99,44999.1,GameZone,10,92,Normal,0.6
+1/22/2024,SP009,Wireless Charger C9,Accessories,145,20.0,80.0,29.99,4348.55,TechTrend,4,150,Low,0.55
+1/22/2024,SP010,Smart Home Hub H10,Smart Home Devices,80,23.0,25.0,149.99,11999.2,SmartTech,6,82,Low,0.5
+1/23/2024,SP001,Smartphone X1,Smartphones,160,165.0,100.0,699.99,111999.4,TechTrend,7,165,Normal,0.85
+1/23/2024,SP002,Wireless Earbuds E2,Audio Devices,140,145.0,50.0,129.99,18198.6,SoundWave,5,145,Normal,0.75
+1/23/2024,SP003,Smart TV T3,Televisions,100,95.0,30.0,799.99,79999.0,VisionTech,10,102,Normal,0.65
+1/23/2024,SP004,Laptop L4,Laptops,110,87.0,40.0,1099.99,120998.9,CompTech,8,112,Normal,0.8
+1/23/2024,SP005,Smartwatch W5,Wearables,130,92.0,60.0,199.99,25998.7,GearFit,6,132,Normal,0.7
+1/23/2024,SP006,Bluetooth Speaker S6,Audio Devices,120,105.0,40.0,89.99,10798.8,SoundWave,5,122,Normal,0.75
+1/23/2024,SP007,Tablet T7,Tablets,105,72.0,30.0,349.99,36748.95,TechTrend,7,108,Normal,0.68
+1/23/2024,SP008,Gaming Console G8,Gaming Devices,95,90.0,20.0,499.99,47499.05,GameZone,10,98,Normal,0.6
+1/23/2024,SP009,Wireless Charger C9,Accessories,150,175.0,80.0,29.99,4498.5,TechTrend,4,155,Normal,0.55
+1/23/2024,SP010,Smart Home Hub H10,Smart Home Devices,85,78.0,25.0,149.99,12749.15,SmartTech,6,88,Normal,0.5
+1/24/2024,SP001,Smartphone X1,Smartphones,165,0.0,100.0,699.99,115498.35,TechTrend,7,170,Low,0.85
+1/24/2024,SP002,Wireless Earbuds E2,Audio Devices,145,0.0,50.0,129.99,18848.55,SoundWave,5,150,Low,0.75
+1/24/2024,SP003,Smart TV T3,Televisions,105,50.0,30.0,799.99,83999.95,VisionTech,10,108,Normal,0.65
+1/24/2024,SP004,Laptop L4,Laptops,115,42.0,40.0,1099.99,126498.85,CompTech,8,118,Normal,0.8
+1/24/2024,SP005,Smartwatch W5,Wearables,135,47.0,60.0,199.99,26998.65,GearFit,6,138,Low,0.7
+1/24/2024,SP006,Bluetooth Speaker S6,Audio Devices,125,60.0,40.0,89.99,11248.75,SoundWave,5,128,Normal,0.75
+1/24/2024,SP007,Tablet T7,Tablets,110,27.0,30.0,349.99,38498.9,TechTrend,7,112,Low,0.68
+1/24/2024,SP008,Gaming Console G8,Gaming Devices,100,45.0,20.0,499.99,49999.0,GameZone,10,102,Normal,0.6
+1/24/2024,SP009,Wireless Charger C9,Accessories,155,20.0,80.0,29.99,4648.45,TechTrend,4,160,Low,0.55
+1/24/2024,SP010,Smart Home Hub H10,Smart Home Devices,90,33.0,25.0,149.99,13499.1,SmartTech,6,92,Normal,0.5
+1/25/2024,SP001,Smartphone X1,Smartphones,170,170.0,100.0,699.99,118998.3,TechTrend,7,175,Normal,0.85
+1/25/2024,SP002,Wireless Earbuds E2,Audio Devices,150,150.0,50.0,129.99,19498.5,SoundWave,5,155,Normal,0.75
+1/25/2024,SP003,Smart TV T3,Televisions,110,105.0,30.0,799.99,87999.9,VisionTech,10,112,Normal,0.65
+1/25/2024,SP004,Laptop L4,Laptops,120,97.0,40.0,1099.99,131998.8,CompTech,8,122,Normal,0.8
+1/25/2024,SP005,Smartwatch W5,Wearables,140,102.0,60.0,199.99,27998.6,GearFit,6,142,Normal,0.7
+1/25/2024,SP006,Bluetooth Speaker S6,Audio Devices,130,115.0,40.0,89.99,11698.7,SoundWave,5,132,Normal,0.75
+1/25/2024,SP007,Tablet T7,Tablets,115,82.0,30.0,349.99,40248.85,TechTrend,7,118,Normal,0.68
+1/25/2024,SP008,Gaming Console G8,Gaming Devices,105,100.0,20.0,499.99,52499.95,GameZone,10,108,Normal,0.6
+1/25/2024,SP009,Wireless Charger C9,Accessories,160,165.0,80.0,29.99,4798.4,TechTrend,4,165,Normal,0.55
+1/25/2024,SP010,Smart Home Hub H10,Smart Home Devices,95,88.0,25.0,149.99,14249.05,SmartTech,6,98,Normal,0.5
+1/26/2024,SP001,Smartphone X1,Smartphones,175,25.0,100.0,699.99,122498.25,TechTrend,7,180,Low,0.85
+1/26/2024,SP002,Wireless Earbuds E2,Audio Devices,155,25.0,50.0,129.99,20148.45,SoundWave,5,160,Low,0.75
+1/26/2024,SP003,Smart TV T3,Televisions,115,60.0,30.0,799.99,91999.85,VisionTech,10,118,Normal,0.65
+1/26/2024,SP004,Laptop L4,Laptops,125,52.0,40.0,1099.99,137498.75,CompTech,8,128,Normal,0.8
+1/26/2024,SP005,Smartwatch W5,Wearables,145,57.0,60.0,199.99,28998.55,GearFit,6,148,Low,0.7
+1/26/2024,SP006,Bluetooth Speaker S6,Audio Devices,135,70.0,40.0,89.99,12148.65,SoundWave,5,138,Normal,0.75
+1/26/2024,SP007,Tablet T7,Tablets,120,37.0,30.0,349.99,41998.8,TechTrend,7,122,Normal,0.68
+1/26/2024,SP008,Gaming Console G8,Gaming Devices,110,55.0,20.0,499.99,54999.9,GameZone,10,112,Normal,0.6
+1/26/2024,SP009,Wireless Charger C9,Accessories,165,10.0,80.0,29.99,4948.35,TechTrend,4,170,Low,0.55
+1/26/2024,SP010,Smart Home Hub H10,Smart Home Devices,100,43.0,25.0,149.99,14999.0,SmartTech,6,102,Normal,0.5
+1/27/2024,SP001,Smartphone X1,Smartphones,180,145.0,100.0,699.99,125998.2,TechTrend,7,185,Normal,0.85
+1/27/2024,SP002,Wireless Earbuds E2,Audio Devices,160,145.0,50.0,129.99,20798.4,SoundWave,5,165,Normal,0.75
+1/27/2024,SP003,Smart TV T3,Televisions,120,115.0,30.0,799.99,95999.8,VisionTech,10,122,Normal,0.65
+1/27/2024,SP004,Laptop L4,Laptops,130,107.0,40.0,1099.99,142998.7,CompTech,8,132,Normal,0.8
+1/27/2024,SP005,Smartwatch W5,Wearables,150,112.0,60.0,199.99,29998.5,GearFit,6,152,Normal,0.7
+1/27/2024,SP006,Bluetooth Speaker S6,Audio Devices,140,125.0,40.0,89.99,12598.6,SoundWave,5,142,Normal,0.75
+1/27/2024,SP007,Tablet T7,Tablets,125,92.0,30.0,349.99,43748.75,TechTrend,7,128,Normal,0.68
+1/27/2024,SP008,Gaming Console G8,Gaming Devices,115,110.0,20.0,499.99,57499.85,GameZone,10,118,Normal,0.6
+1/27/2024,SP009,Wireless Charger C9,Accessories,170,155.0,80.0,29.99,5098.3,TechTrend,4,175,Normal,0.55
+1/27/2024,SP010,Smart Home Hub H10,Smart Home Devices,105,98.0,25.0,149.99,15748.95,SmartTech,6,108,Normal,0.5
+1/28/2024,SP001,Smartphone X1,Smartphones,185,10.0,100.0,699.99,129498.15,TechTrend,7,190,Low,0.85
+1/28/2024,SP002,Wireless Earbuds E2,Audio Devices,165,10.0,50.0,129.99,21448.35,SoundWave,5,170,Low,0.75
+1/28/2024,SP003,Smart TV T3,Televisions,125,70.0,30.0,799.99,99999.75,VisionTech,10,128,Normal,0.65
+1/28/2024,SP004,Laptop L4,Laptops,135,62.0,40.0,1099.99,148498.65,CompTech,8,138,Normal,0.8
+1/28/2024,SP005,Smartwatch W5,Wearables,155,67.0,60.0,199.99,30998.45,GearFit,6,158,Normal,0.7
+1/28/2024,SP006,Bluetooth Speaker S6,Audio Devices,145,80.0,40.0,89.99,13048.55,SoundWave,5,148,Normal,0.75
+1/28/2024,SP007,Tablet T7,Tablets,130,47.0,30.0,349.99,45498.7,TechTrend,7,132,Normal,0.68
+1/28/2024,SP008,Gaming Console G8,Gaming Devices,120,65.0,20.0,499.99,59999.8,GameZone,10,122,Normal,0.6
+1/28/2024,SP009,Wireless Charger C9,Accessories,175,10.0,80.0,29.99,5248.25,TechTrend,4,180,Low,0.55
+1/28/2024,SP010,Smart Home Hub H10,Smart Home Devices,110,53.0,25.0,149.99,16498.9,SmartTech,6,112,Normal,0.5
+1/29/2024,SP001,Smartphone X1,Smartphones,190,180.0,100.0,699.99,132998.1,TechTrend,7,195,Normal,0.85
+1/29/2024,SP002,Wireless Earbuds E2,Audio Devices,170,160.0,50.0,129.99,22098.3,SoundWave,5,175,Normal,0.75
+1/29/2024,SP003,Smart TV T3,Televisions,130,125.0,30.0,799.99,103999.7,VisionTech,10,132,Normal,0.65
+1/29/2024,SP004,Laptop L4,Laptops,140,117.0,40.0,1099.99,153998.6,CompTech,8,142,Normal,0.8
+1/29/2024,SP005,Smartwatch W5,Wearables,160,122.0,60.0,199.99,31998.4,GearFit,6,162,Normal,0.7
+1/29/2024,SP006,Bluetooth Speaker S6,Audio Devices,150,135.0,40.0,89.99,13498.5,SoundWave,5,152,Normal,0.75
+1/29/2024,SP007,Tablet T7,Tablets,135,102.0,30.0,349.99,47248.65,TechTrend,7,138,Normal,0.68
+1/29/2024,SP008,Gaming Console G8,Gaming Devices,125,120.0,20.0,499.99,62499.75,GameZone,10,128,Normal,0.6
+1/29/2024,SP009,Wireless Charger C9,Accessories,180,165.0,80.0,29.99,5398.2,TechTrend,4,185,Normal,0.55
+1/29/2024,SP010,Smart Home Hub H10,Smart Home Devices,115,108.0,25.0,149.99,17248.85,SmartTech,6,118,Normal,0.5
+1/30/2024,SP001,Smartphone X1,Smartphones,195,25.0,100.0,699.99,136498.05,TechTrend,7,200,Low,0.85
+1/30/2024,SP002,Wireless Earbuds E2,Audio Devices,175,25.0,50.0,129.99,22748.25,SoundWave,5,180,Low,0.75
+1/30/2024,SP003,Smart TV T3,Televisions,135,80.0,30.0,799.99,107999.65,VisionTech,10,138,Normal,0.65
+1/30/2024,SP004,Laptop L4,Laptops,145,72.0,40.0,1099.99,159498.55,CompTech,8,148,Normal,0.8
+1/30/2024,SP005,Smartwatch W5,Wearables,165,77.0,60.0,199.99,32998.35,GearFit,6,168,Normal,0.7
+1/30/2024,SP006,Bluetooth Speaker S6,Audio Devices,155,90.0,40.0,89.99,13948.45,SoundWave,5,158,Normal,0.75
+1/30/2024,SP007,Tablet T7,Tablets,140,57.0,30.0,349.99,48998.6,TechTrend,7,142,Normal,0.68
+1/30/2024,SP008,Gaming Console G8,Gaming Devices,130,75.0,20.0,499.99,64999.7,GameZone,10,132,Normal,0.6
+1/30/2024,SP009,Wireless Charger C9,Accessories,185,10.0,80.0,29.99,5548.15,TechTrend,4,190,Low,0.55
+1/30/2024,SP010,Smart Home Hub H10,Smart Home Devices,120,63.0,25.0,149.99,17998.8,SmartTech,6,122,Normal,0.5
+1/31/2024,SP001,Smartphone X1,Smartphones,200,175.0,100.0,699.99,139998.0,TechTrend,7,205,Normal,0.85
+1/31/2024,SP002,Wireless Earbuds E2,Audio Devices,180,175.0,50.0,129.99,23398.2,SoundWave,5,185,Normal,0.75
+1/31/2024,SP003,Smart TV T3,Televisions,140,135.0,30.0,799.99,111999.6,VisionTech,10,142,Normal,0.65
+1/31/2024,SP004,Laptop L4,Laptops,150,127.0,40.0,1099.99,164998.5,CompTech,8,152,Normal,0.8
+1/31/2024,SP005,Smartwatch W5,Wearables,170,132.0,60.0,199.99,33998.3,GearFit,6,172,Normal,0.7
+1/31/2024,SP006,Bluetooth Speaker S6,Audio Devices,160,145.0,40.0,89.99,14398.4,SoundWave,5,162,Normal,0.75
+1/31/2024,SP007,Tablet T7,Tablets,145,112.0,30.0,349.99,50748.55,TechTrend,7,148,Normal,0.68
+1/31/2024,SP008,Gaming Console G8,Gaming Devices,135,130.0,20.0,499.99,67499.65,GameZone,10,138,Normal,0.6
+1/31/2024,SP009,Wireless Charger C9,Accessories,190,155.0,80.0,29.99,5698.1,TechTrend,4,195,Normal,0.55
+1/31/2024,SP010,Smart Home Hub H10,Smart Home Devices,125,118.0,25.0,149.99,18748.75,SmartTech,6,128,Normal,0.5
+1/29/2024,SP010,Smart Home Hub H10,Smart Home Devices,115,,25.0,149.99,17248.85,SmartTech,6,118,Normal,0.5
+1/1/2024,SP010,Smart Home Hub H10,Smart Home Devices,5,60.0,,149.99,749.95,SmartTech,6,8,Normal,0.5
+1/28/2024,SP010,Smart Home Hub H10,Smart Home Devices,110,53.0,25.0,149.99,16498.9,SmartTech,6,112,Normal,0.5
+1/11/2024,SP003,Smart TV T3,Televisions,40,85.0,30.0,799.99,31999.6,VisionTech,10,42,Normal,0.65
