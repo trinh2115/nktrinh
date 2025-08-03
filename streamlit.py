@@ -1,3 +1,4 @@
+# streamlit_app
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -60,7 +61,7 @@ st.set_page_config(page_title="Dự báo nhu cầu", layout="wide")
 st.title("📊 Phân tích & Dự báo nhu cầu sản phẩm bằng LSTM")
 
 # Link raw GitHub CSV (dán sẵn)
-RAW_CSV_URL = "https://raw.githubusercontent.com/trinh2115/nktrinh/refs/heads/main/Inventory%20Demand%20Forecast.csv"  # ← Thay bằng link thật
+RAW_CSV_URL = "https://raw.githubusercontent.com/trinh2115/trinh2115.github.io/refs/heads/trinh/Inventory%20Demand%20Forecast.csv"  # ← Thay bằng link thật
 
 # Tải dữ liệu
 with st.spinner("🔄 Đang tải dữ liệu từ GitHub..."):
