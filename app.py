@@ -20,11 +20,10 @@ st.set_page_config(page_title="📊 Dashboard Doanh Thu & Dự báo", page_icon=
 
 # Sidebar
 st.sidebar.title("🔧 Tùy chọn")
-selected_year = st.sidebar.selectbox("Chọn năm", [2022, 2023, 2024])
 show_chart = st.sidebar.checkbox("Hiển thị biểu đồ", value=True)
 
 # Tiêu đề chính
-st.markdown("# 💼 **Dashboard Doanh Thu**")
+st.markdown("#**Dashboard Doanh Thu**")
 st.markdown(f"📅 Dữ liệu năm: **{selected_year}**")
 
 # Dữ liệu mẫu
