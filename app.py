@@ -16,15 +16,14 @@ import requests
 from io import StringIO
 
 # ✅ Cấu hình trang
-st.set_page_config(page_title="📊 Dashboard Doanh Thu & Dự báo", page_icon="💼", layout="wide")
+st.set_page_config(page_title="📊Doanh Thu & Dự báo", page_icon="💼", layout="wide")
 
 # Sidebar
 st.sidebar.title("🔧 Tùy chọn")
 show_chart = st.sidebar.checkbox("Hiển thị biểu đồ", value=True)
 
 # Tiêu đề chính
-st.markdown("#**Dashboard Doanh Thu**")
-st.markdown(f"📅 Dữ liệu năm: **{selected_year}**")
+st.markdown("#**Doanh Thu**")
 
 # Dữ liệu mẫu
 data = {
